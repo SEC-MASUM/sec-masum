@@ -80,9 +80,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/SEC-MASUM/SEC-MASUM/output/snake.svg" alt="Snake animation" />
-
-###
