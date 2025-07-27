@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Junior Software Developer</h4>
+<h4 align="left">Software Developer</h4>
 
 ###
 
