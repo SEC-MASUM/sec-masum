@@ -1,82 +1,85 @@
-<h2 align="left">Md. Masum Billah</h2>
+<h1 align="center">Md. Masum Billah</h1>
+<h3 align="center">Software Engineer | ASP.NET Core | Angular | React | Flutter</h3>
 
-###
+<p align="center">
+Building scalable ERP & Enterprise Applications with Clean Architecture.
+</p>
 
-<h4 align="left">Software Developer</h4>
+---
 
-###
+## 🚀 About Me
 
-<div align="left">
+- 💼 Full Stack Software Engineer
+- 🏗️ Working on large-scale ERP & Distribution Management Systems (DMS)
+- 🧠 Strong in Clean Architecture (Onion Architecture), Repository & Unit of Work Pattern
+- 📊 Experience with reporting, financial modules, and business workflow systems
+- 🌍 Passionate about performance optimization & scalable system design
+
+---
+
+## 🛠️ Core Tech Stack
+
+### Backend
+- ASP.NET Core Web API
+- C#
+- Entity Framework Core
+- MS SQL Server
+- REST API Design
+- Clean Architecture
+
+### Frontend
+- Angular
+- React
+- Flutter
+- TypeScript
+- JavaScript
+
+### Database
+- SQL Server
+- Query Optimization
+- Stored Procedures
+- Performance Tuning
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-rho-weld-94.vercel.app/api?username=SEC-MASUM&show_icons=true&theme=dracula&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats-rho-weld-94.vercel.app/api/top-langs/?username=SEC-MASUM&layout=compact&theme=dark&hide_border=true" height="160" alt="languages graph"/>
+</p>
+<div align="center"> 
+  <img src="https://streak-stats.demolab.com?user=SEC-MASUM&locale=en&mode=weekly&theme=highcontrast&hide_border=true&border_radius=5" height="150" alt="streak graph" />    </div>
+  
+
+---
+
+## 🔗 Connect With Me
+
+<p align="left">
   <a href="https://www.linkedin.com/in/sec-masum/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://www.facebook.com/devbillah.masum/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+    <img src="https://img.shields.io/badge/Facebook-Profile-blue?style=for-the-badge&logo=facebook" />
   </a>
-</div>
+</p>
 
-###
+---
 
-<br clear="both">
+## 🎯 Current Focus
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=SEC-MASUM&locale=en&mode=weekly&theme=highcontrast&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=SEC-MASUM&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SEC-MASUM&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true" height="150" alt="languages graph"  />
-</div>
+- ERP Performance Optimization
+- SQL Query Monitoring & Slow Query Analysis
+- Advanced EF Core Patterns
+- Scalable Microservice-friendly Architecture
+- Mobile Field Force Apps (Flutter + Live Location Tracking)
 
-###
+---
 
-<h4 align="left">Love to code</h4>
+## 📌 Philosophy
 
-###
+> Code should not just work.  
+> It should scale, be testable, and survive business growth.
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=angular" height="30" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dart" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="30" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" alt="materialui logo"  />
-</div>
-
-###
-
-<h4 align="left">Favourite Tools</h4>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="30" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="30" alt="adobeillustrator logo"  />
-</div>
-
-###
+---
